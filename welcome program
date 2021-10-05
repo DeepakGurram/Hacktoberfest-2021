@@ -1,1 +1,2 @@
-print("welcome to my code")
+print("welcome to my code") #python
+System.out.println("hello"); #java
